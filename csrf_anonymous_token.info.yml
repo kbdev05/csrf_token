@@ -1,0 +1,10 @@
+name: Anonymous CSRF token 
+description: Add token(CSRF TOKEN) validation to all forms for anonymous users
+package: core
+type: module
+core_version_requirement: ^8 || ^9
+
+# Information added by Drupal.org packaging script on 2021-09-19
+version: '9.0.1-dev+0-dev'
+project: 'csrf_anonymous_token'
+datestamp: 1632040643
